@@ -1,3 +1,3 @@
 <template>
-  <v-app></v-app>
+  <v-app class="pink lighten-4"></v-app>
 </template>
