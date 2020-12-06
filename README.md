@@ -1,5 +1,8 @@
 # vuetify_course
 
+## Deployment Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bfbc26c6-4329-469c-aa89-19fd6fbc4dd7/deploy-status)](https://app.netlify.com/sites/zubs-vuetify/deploys)
+
 ## Project setup
 ```
 npm install
